@@ -1,5 +1,7 @@
+import java.util.Scanner;
+
 public class Factoring{
-     public static void main(string[] args){
+     public static void main(String[] args){
           //get number to factor
           Scanner input = new Scanner(System.in);
           System.out.print("Enter number to factor:");
